@@ -30,9 +30,6 @@ Our software will overcome all these Safe, efficient, reliable, and sustainable 
 •Web Server                          -    Wamp2.2e
 •Database                      -     My SQL
 
-# TEAM MEMBER
-1. MD MIRAJ ANSARI
-2. LAVANYA TL
 
 
 
